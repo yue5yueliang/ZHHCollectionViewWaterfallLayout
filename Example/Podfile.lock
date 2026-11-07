@@ -1,0 +1,18 @@
+PODS:
+  - ZHHCollectionViewWaterfallLayout (1.0.0):
+    - ZHHCollectionViewWaterfallLayout/Source (= 1.0.0)
+  - ZHHCollectionViewWaterfallLayout/Source (1.0.0)
+
+DEPENDENCIES:
+  - ZHHCollectionViewWaterfallLayout (from `../`)
+
+EXTERNAL SOURCES:
+  ZHHCollectionViewWaterfallLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHHCollectionViewWaterfallLayout: 31a1bccf0b54b92a52c47fff4c7fb5cf9a811e7a
+
+PODFILE CHECKSUM: 1277d6a9c3ab3b4afd26117ac5467603fb0d0af9
+
+COCOAPODS: 1.16.2
